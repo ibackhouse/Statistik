@@ -1,2 +1,6 @@
-#this is a plain test file 
-# IsabelB
+The task was to analyse the given data with a Chi-Square-Test. 
+The presentation I used my slides:
+https://prezi.com/p/edit/drj_j5bmaimn/
+
+
+
